@@ -1,0 +1,25 @@
+第一课！！！
+
+pytest单元测试框架和自动化框架有什么区别？
+web自动化框架：selenium
+接口自动化框架：requests
+app自动化框架：appium
+pytest是自动化框架的组成部分！
+如：pom模式、关键字驱动、yaml、数据驱动
+
+pytest测试的是：方法、模块
+
+unittest/pytest：都是单元测试框架（大体功能类似，pytest相对更好用一点）
+unittest：早期
+pytest：晚期
+
+pytest的规范和模版必须记住：
+1、测试文件以test_开头或者(_test结尾）
+2、测试类以Test开头，并且类里面不能带有init方法！
+3、测试函数以test_开头    如def test_01（）：
+4、断言使用assert
+
+
+
+
+
